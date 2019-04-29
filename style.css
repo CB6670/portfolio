@@ -1,0 +1,10 @@
+body{
+    margin:auto;
+    text-align: center;
+}
+
+#firstDiv{
+    background-color: antiquewhite;
+    padding: 0%;
+    margin: 5%;
+}
